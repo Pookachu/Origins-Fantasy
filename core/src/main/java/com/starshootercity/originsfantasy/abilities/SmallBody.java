@@ -34,7 +34,7 @@ public class SmallBody implements VisibleAbility, AttributeModifierAbility {
 
     @Override
     public double getAmount() {
-        return -0.5;
+        return -0.25;
     }
 
     @Override
